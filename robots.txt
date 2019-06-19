@@ -1,0 +1,8 @@
+User-agent: *
+Allow: .html
+Allow: *.css
+Allow: *.js
+Clean-Param: utm_source&utm_medium&utm_campaign
+Crawl-Delay: 0.5
+
+Sitemap: https://site.ru/sitemap.xml
